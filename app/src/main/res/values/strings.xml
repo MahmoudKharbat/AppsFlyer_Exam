@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppsFlyer_Exam</string>
+    <string name="hyper_link"><a href = "https://app.appsflyer.com/com.example.appsflyer_exam?pid=devtest">please visit us</a></string>
+</resources>
